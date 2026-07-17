@@ -4,18 +4,16 @@
 
 **Student at [Epitech](https://www.epitech.eu/)**
 
-*Passionate about Software Engineering & DevOps*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=460&lines=Passionate+about+Software+Engineering;Clean+Code+%26+Architecture+enthusiast;Cloud+Native+%26+DevOps+explorer" alt="Typing SVG" /></a>
 
-<br/>
-
-## 🚀 About Me
+## About Me
 
 I focus on building scalable applications and automating infrastructure. <br/>
-I love **Clean Code**, **Architecture**, and exploring Cloud Native technologies like **GCP** & **Terraform**.
+I love **Clean Code**, **Architecture**, and exploring Cloud Native technologies.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <br/>
@@ -36,17 +34,22 @@ I love **Clean Code**, **Architecture**, and exploring Cloud Native technologies
 
 **IDEs & Tools**
 <br/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
+<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 
 <br/>
 
+## GitHub Stats
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mael-app&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/2c78f19d-7d01-4fa5-b17a-ff5406dba5af.svg)](https://wakatime.com/@2c78f19d-7d01-4fa5-b17a-ff5406dba5af)
+
+<img src="https://komarev.com/ghpvc/?username=mael-app&label=Profile%20views&color=4285F4&style=flat" alt="Profile views" />
 
 </div>
